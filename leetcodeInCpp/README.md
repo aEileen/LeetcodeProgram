@@ -5,5 +5,7 @@
 
 # Details
 ### 189. Rotate Array
+
 **[Problem Discription](https://leetcode.com/problems/rotate-array/)**:
+
 **[MyCode]() & Inspiration**:
