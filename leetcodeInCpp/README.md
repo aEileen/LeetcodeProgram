@@ -10,4 +10,4 @@
 
 Rotate an array of n elements to the right by k steps. (at least 3 methods)
 
-**[MyCode]() & Inspiration**:
+**[MyCode](https://github.com/aEileen/LeetcodeProgram/blob/master/leetcodeInCpp/189_Rotate%20Array) & Inspiration**:
